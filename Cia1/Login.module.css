@@ -1,0 +1,26 @@
+.body{
+    /* border:5px black; */
+    width:350px;
+    padding-top: 85px;
+    /* height:350px; */
+}
+.container{
+    /* padding-top: 15%; */
+    background-color: lightblue;
+    border-radius: 15px;
+    border:5px black;
+    width:475px;
+    height:425px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;   
+}
+.label{
+    text-align: left;
+    font-size:15px;
+}
+.center{
+    padding-top: 75px;
+}
+.h1{
+    font-size: 50px;
+    text-shadow: black 2px 2px;
+}
